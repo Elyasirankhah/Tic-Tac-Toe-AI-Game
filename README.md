@@ -6,3 +6,4 @@ Basically, the AI opponents have been introduced as three charactors as follows:
 Olivia which is equal easy stage
 Emma which is equal Meduim stage
 Chris which is Advanced stage
+![Screenshot (67)](https://user-images.githubusercontent.com/126001790/232905506-fc7e5aa5-b136-47d5-9583-f56c447608b7.png)
