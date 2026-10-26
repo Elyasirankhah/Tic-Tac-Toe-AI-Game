@@ -100,10 +100,11 @@ DOI: https://doi.org/10.1145/3613905.3650991
 
 ![Tic-Tac-Toe AI Game](https://user-images.githubusercontent.com/126001790/232905506-fc7e5aa5-b136-47d5-9583-f56c447608b7.png)
 
-## Research Context
 
-This project illustrates how accessible, game-based interactions can introduce young learners to AI capabilities and limitations.
+## Troubleshooting
 
-Through playing against opponents with different strategies, students can observe how algorithmic reasoning affects system behavior and develop a more concrete understanding of AI decision-making.
-
+- **Missing Pillow:** Install it using `pip install Pillow`.
+- **Missing image file:** Ensure `logo.png` is in the same working directory as the notebook.
+- **GUI not displaying:** Run the notebook in a local Python environment with Tkinter support.
+- **Game not starting:** Make sure all required notebook cells have been executed.
 
